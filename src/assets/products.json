@@ -1,0 +1,102 @@
+[
+    {
+        "id":"678",
+        "name":"Pizza",
+        "Amount":"800",
+        "Shop":"gourmet",
+        "Foodtype":"pizza",
+        "pic":"./src/assets/Briyani.jpeg",
+        "Latest":"no"
+         },
+         {
+            "id":"456",
+            "name":"Chocolate brownie with icecream",
+            "Amount":"250",
+            "Foodtype":"Brownie",
+            "pic":"./src/assets/pizza.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"586",
+            "name":"Chicken briyani",
+            "Amount":"200",
+            "Foodtype":"Briyani",
+            "pic":"./src/assets/Briyani.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"345",
+            "name":"Veg noodles",
+            "Amount":"150",
+            "Foodtype":"Noodles",
+            "pic":"./src/assets/Noodles.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"767",
+            "name":"Southwest breakfast burrito",
+            "Amount":"400",
+            "Foodtype":"Burrito",
+            "pic":"./src/assets/Burrito.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"987",
+            "name":"Donut with sprinkles",
+            "Amount":"500",
+            "Foodtype":"Donut",
+            "pic":"./src/assets/Donut.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"545",
+            "name":"Milkshakes",
+            "Amount":"200",
+            "Foodtype":"Different flavours of Milkshakes",
+            "pic":"./src/assets/Milkshake.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"246",
+            "name":"Parotta with salna",
+            "Amount":"300",
+            "Foodtype":"Parotta",
+            "pic":"./src/assets/Parotta.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"755",
+            "name":"Cheeseburger",
+            "Amount":"600",
+            "Foodtype":"Burger",
+            "pic":"./src/assets/Noodles.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"673",
+            "name":"Spicy mayo fried chicken sandwich",
+            "Amount":"500",
+            "Foodtype":"Sandwich",
+            "pic":"./src/assets/Sandwich.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"190",
+            "name":"Sheet pan chicken shawarma",
+            "Amount":"250",
+            "Foodtype":"Shawarma",
+            "pic":"./src/assets/Shawarma.jpeg",
+            "Latest":"no"
+         },
+         {
+            "id":"973",
+            "name":"Tasty burger",
+            "Amount":"400",
+            "Foodtype":"Burger",
+            "pic":"./src/assets/Burger.jpeg",
+            "Latest":"no"
+         }
+
+
+
+]
